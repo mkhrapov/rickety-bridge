@@ -5,3 +5,5 @@ Question: Four people need to cross a rickety bridge at night. Unfortunately, th
 Answer = 17 mins
 
 This Python script verifies the solution by a brute force search.
+
+[Puzzle Text](https://www.geeksforgeeks.org/four-people-rickety-bridge/)
